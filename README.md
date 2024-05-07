@@ -11,7 +11,7 @@ Features
 
 Installation and Setup
 1.Clone the repository:
-  git clone <repository_url>
+  git clone:(https://github.com/Ashfaque-calicut/todo.git)
 2.Install dependencies:
   cd frontend
   npm install
